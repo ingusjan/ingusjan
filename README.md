@@ -6,7 +6,7 @@ I'm Ingus. 19, Software Engineer currently working at Vodafone Group. I founded 
 - 🌱  I’m currently learning GraphQL and AngularJS
 - 💬  Ask me about UI/UX, Minimalist Design, ReactJS and REST APIs.
 - 📫  How to reach me: ingusjan@gmail.com or ingus.jansons@vodafone.com
-- 😄  Pronouns: he/him
+- 😄  Pronouns: literally anything
 - 🧅  Fun fact: I used to think that onion rings didn't actually have onions in them 
 
 <!--
