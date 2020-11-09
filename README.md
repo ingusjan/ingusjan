@@ -1,25 +1,9 @@
 ### Hi there 👋
 
+![me at work](https://i.imgur.com/hLHMYYL.gif)
+
 I'm Ingus. 19, Software Engineer currently working at Vodafone Group. I founded Illumi Media back in 2015 to help content creators brand themselves online and have been continuing it outside of office hours. You'll also find plenty of side projects (some even production!) over at my site https://ingus.dev
 
-- 🔭  I’m currently working on simplifying the front-end development process for developers.
 - 🌱  I’m currently learning GraphQL and AngularJS
 - 💬  Ask me about UI/UX, Minimalist Design, ReactJS and REST APIs.
-- 📫  How to reach me: ingusjan@gmail.com or ingus.jansons@vodafone.com
-- 😄  Pronouns: literally anything
-- 🧅  Fun fact: I used to think that onion rings didn't actually have onions in them 
-
-<!--
-**ingusjan/ingusjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫  Reach me: ingusjan@gmail.com or ingus.jansons@vodafone.com
