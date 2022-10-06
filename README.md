@@ -1,3 +1,6 @@
 ![me at work](https://i.imgur.com/hLHMYYL.gif)
 
-ux/ui software engineer @ vodafone group 🐒
+software engineer @ vodafone
+founder @ illumi media
+
+working on: tools for content creators
